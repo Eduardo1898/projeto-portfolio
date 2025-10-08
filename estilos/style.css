@@ -93,6 +93,10 @@ section#ficha img{
   text-align: center;
 }
 
+#ficha p{
+  text-align: justify;
+}
+
 div#social{
   display: flex;
   justify-content: center;
